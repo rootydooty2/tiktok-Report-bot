@@ -7,6 +7,8 @@
 
 <h1 align="center">TIKTOK REPORT BOT V1.0 </h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">A professional TikTok account reporting bot </p>
 
 <p align="right">
@@ -18,16 +20,15 @@
 
 ## 🌟 **Features**  
 
-- **Session simulation** with alot session ID handling  
-- ** usernames & targets** input system  
-- **Multithreaded  reporting** to simulate speed  
-- **Bot footer credit** to `root@abrzi`  
-- **Telegram Contact** shown in GUI  
-- 100% **Offline & Harmless**
+- **Multi-Account Support**: Manage and operate multiple tiktok accounts simultaneously.  
+- **Multi-Target System**: Rep-ort mul-tiple users or content in bulk with precision.  
+- **Advanced Automation**: Leveraging threaded programming for seamless operation.  
+- **Bypass Anti-Spam Mechanisms**: Ensures smooth rep-orting without interruptions.  
+- **Bulk Reporting Capability**: Submit up to **500 re-p-orts per account** effortlessly.  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 ** Report Types Supported**  
+## 🎯 ** Rep-ort Types Supported**  
 
 - Sp@m  
 - H@r@ssment  
@@ -36,12 +37,12 @@
 - F@ke Info  
 - S@lf H@rm  
 - V!olence  
-- P@rn@gr@phy  
+- P@rrn@ggr@pphy
 
----
+- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
----
 
 ## ⚡ to get the bo/t 💸
 to get the pr-ogram:
@@ -49,14 +50,10 @@ to get the pr-ogram:
 - **Join our Telegram Channel**:  
   [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rootabrzibots)
 
-- **Contact Support**:  
-  [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://t.me/abrzi505)
-
 - **Telegram Contact**:  
   [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/abrzi505)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 > [!CAUTION]
 > ```This tool is created for EDUCATIONAL PURPOSES ONLY. The creator is not responsible for any misuse.```
