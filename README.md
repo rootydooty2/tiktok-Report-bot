@@ -48,7 +48,7 @@
 to get the pr-ogram:
 
 - **Join our Telegram Channel**:  
-  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rootabrzibots)
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rootabrzi2)
 
 - **Telegram Contact**:  
   [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/abrzi505)
